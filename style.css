@@ -1,0 +1,24 @@
+div{
+    text-align: center;
+    background-color:#053668 ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: whitesmoke;
+}
+.bar1{
+    background-color:#10006b
+}
+a{
+    color: whitesmoke;
+}
+.Menu{
+    font-size: 32pt;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(196, 200, 255);
+}
+.Table{
+    background-color: #053668;
+}
+ul{
+    font-size: 26px;
+}
