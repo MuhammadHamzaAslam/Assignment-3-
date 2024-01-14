@@ -1,24 +1,112 @@
-div{
-    text-align: center;
-    background-color:#053668 ;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: whitesmoke;
+@font-face {
+    font-family: Download;
+    src: url(Fonts/Kalam/Kalam-Bold.ttf);
 }
+@font-face {
+  font-family: Download 2;
+  src: url(Fonts/Lemon/Lemon-Regular.ttf);
+}
+@font-face {
+  font-family: Pacific;
+  src: url(Fonts/Pacifico/Pacifico-Regular.ttf);
+}
+.welcome{
+    font-size: 2em;
+    width: 100%;
+    height: 200px;
+    text-align: center;
+    background-color:   #F96167;
+    font-family: "Download";
+    color: black;
+    text-shadow: 19px 10px 13px whitesmoke;
+    font-weight: bolder !important;
+    text-align: center;
+}
+.Zinger1{
+  font-family:"Pacific" ;
+}
+
 .bar1{
-    background-color:#10006b
+    background-color: #F9E795 ;
+    font-size: 22px;
+
 }
 a{
-    color: whitesmoke;
+    color: black;
+    text-decoration: none;
+
 }
+
 .Menu{
     font-size: 32pt;
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: rgb(196, 200, 255);
+    background-color:   #E2D1F9;
+    text-shadow: 2px 2px 10px red;
+
+
+}
+.a1{
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  
 }
 .Table{
-    background-color: #053668;
+    background-color: #F9E795   ;
+
 }
+.Table:hover{
+  background-color: violet;
+}
+.img1{
+    height:30px;
+    width: 30px;
+
+
+}
+
+.form{
+  text-align: center;
+  font-size: 24pt;
+}
+#Submit{
+  border-radius: 5px;
+  background-color: bisque;
+  font-size: 22pt;
+  font-weight: bold;
+}
+
+.label1{
+  font-size: 19pt;
+  font-weight: bold;
+}
+
 ul{
     font-size: 26px;
 }
+
+a:link {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+.bar2:hover {
+    background-color: #f3e743e5;
+  }
+
+  .bar3:hover {
+    background-color: #f3e743e5;
+  }
+
+  .bar4:hover {
+    background-color: #f3e743e5;
+  }
+
+  .bar5:hover {
+    background-color: #f3e743e5;
+  }
+
+  .bar6:hover {
+    background-color: #f3e743e5;
+  }
