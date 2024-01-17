@@ -69,6 +69,8 @@ a{
 .form{
   text-align: center;
   font-size: 24pt;
+  font-family:  "Download";
+ 
 }
 #Submit{
   border-radius: 5px;
@@ -109,4 +111,7 @@ a:link {
 
   .bar6:hover {
     background-color: #f3e743e5;
+  }
+  ::placeholder{
+    font-family:"Pacific" ;
   }
