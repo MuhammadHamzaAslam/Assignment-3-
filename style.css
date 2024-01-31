@@ -22,10 +22,40 @@
     font-weight: bolder !important;
     text-align: center;
 }
+@media screen and (max-width: 480px) {
+   
+  .welcome{
+    height: 200px;
+    width: 800px;
+}
+.bar1{
+  height: 100px;
+  width: 770px;
+}
+.bar2{
+  width: 800px;
+}
+.bar3{
+  width: 800px;
+}
+.bar4{
+  width: 800px;
+}
+.bar5{
+  width: 800px;
+}
+.bar6{
+  width: 800px;
+}
+#faltu{
+  width: 800px;
+  margin-left: 0px;
+}
 .Zinger1{
-  font-family:"Pacific" ;
+  font-size: 8pt;
 }
 
+}
 .bar1{
     background-color: #F9E795 ;
     font-size: 22px;
